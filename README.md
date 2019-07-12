@@ -1,10 +1,13 @@
 # Mewna
 
-About Mewna's open-source stuff.
+Mewna's open-source stuff.
+
+- Discord API wrapper library: https://github.com/mewna/catnip
+- Distributed snowflake generator: https://github.com/mewna/raindrop
 
 ## Discord bot
 
-The code used to power the Mewna Discord bot when it was alive.
+The code used to power the Mewna Discord bot when it was alive. None of this is supported or will be maintained. There will never be a "do it yourself" guide or similar. You are not permitted to create a bot named "Mewna" with this code for any reason.
 
 - https://github.com/mewna/mewna-shard
 - https://github.com/mewna/mewna-backend
